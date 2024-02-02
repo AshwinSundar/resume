@@ -2,7 +2,7 @@
 
 | Senior Software Engineer | |  
 | - | - |  
-| (480) - 216 - 0436 | [ashwin.sundar@asu.edu](ashwin.sundar@asu.edu) |  
+| (480) - 216 - 0436 | [ashwin.sundar@asu.edu](ashwin.sundar@asu.edu) |
 
 ---
 
@@ -11,119 +11,65 @@
 ---
 
 ## Technical Skills
-<!-- TO DO:
-- color code by category (DevOps, Programming Languages, dev tools, etc)
--->
-```mermaid
-quadrantChart
-    %%{init: {"quadrantChart": {"pointRadius": 2}, "themeVariables": {} }}%%
-    x-axis Practical Experience
-    y-axis Theoretical Knowledge
 
-    GitLab : [0.25, 0.25]
-    git : [0.75, 0.25]
-    AWS : [0.2, 0.2]
-    DigitalOcean: [0.15, 0.30]
-    ObjectStore: [0.75, 0.2]
-    PL Theory: [0.75, 0.5]
-    JS/TS: [0.9, 0.5]
-    Python: [0.8, 0.45]
-    R: [0.3, 0.25]
-    Objective-C: [0.1, 0.5]
-    bash: [0.8, 0.16]
-    C++: [0.8, 0.25]
-    Go: [0.3, 0.1]
-    SQL: [0.5, 0.15]
-    UI/UX Design: [0.75, 0.75]
-    embedded dev: [0.85, 0.10]
-    catch2: [0.15, 0.15]
-    Django: [0.35, 0.35]
-    MQTT: [0.35, 0.3]
-```
+About: Technical skills are difficult to assess. This table is intended to communicate my technical proficiencies and amount of experience with each, in an objective and honest manner.
 
-```mermaid
----
-config:
-    sankey: 
-        showValues: false
----
-sankey-beta
+sort by most to least xp in each category
 
-%% Level 1
-Software Skills, Programming Languages, 5
-Software Skills, Web Abstractions, 5
-Software Skills, Test Frameworks, 5
-Software Skills, VCS, 5
-Software Skills, Cloud Providers, 5
-Software Skills, Databases, 5
-Software Skills, Operating Systems, 5
-Software Skills, Other, 5 
+| Skill/Technology | Experience | Engagement per week | Recency | Comments |
+| - | - | - | - | - |
+| **Version Control**
+| git | 2 years | daily usage | Current |
+| subversion | 6 months | weekly usage | 2017 |
+| **CI/CD**
+| GitLab | 3 months | daily usage | 2023 |
+| GitHub Actions
+| Azure Pipelines
+| **Cloud Providers**
+| AWS | 6 months | weekly usage | Current
+| DigitalOcean | 3 months | weekly usage | Current
+| **Databases**
+| Postgres | 6 months | weekly usage | Current
+| ObjectStore | 4 years | weekly usage | 2018-2022
+| Redis | 6 months | weekly usage | 2023
+| SQL | 1 year | daily usage | 2018
+| **Developer Tools**
+| Docker | 6 months | weekly usage
+| MQTT | 3 months | daily usage | 2023
+| **Web Technologies** 
+| HTML + CSS | 8 years | daily usage | Current
+| Tailwind CSS | 1 month | daily usage | Current
+| Bootsrap CSS | 2 years | daily usage | 2018 - 2020
+| jQuery | 2 years | daily usage | 2018 - 2020
+| Javascript | 3 years | daily usage | recent
+| Typescript | 1 year | daily usage | recent
+| React/Gatsby | 6 months | daily usage | 2022
+| React/Next.js | 1 month | daily usage | Current
+| Django | 6 months | daily usage | Current
+|**OG Programming**
+| Go | 3 months | daily usage | 2023
+| R | 6 months | daily usage | 2016
+| Python | 1 year | daily usage | Current
+| C++ | 1 year | daily usage | 2023 | embedded software
+| Rust | 6 months | daily usage | 2022 | coursework only
+| Standard ML | 3 months | daily usage | 2023 | coursework only
+| zsh | 2 years | daily usage
+| Objective-C | 6 months | daily usage | 2015 | coursework only
+| **Programming Philosophies**
+| Functional Programming
+| Object-Oriented Programming | Still my default way of programming, although recently I am growing to love blending functional techniques in where appropriate.
+| SOLID/DRY Principles | | | | I think DRY is often taken too far, so I believe in knowing as much as about one's code as possible. External dependencies should be treated as SOUP (Software of Unknown Provenance), and should be understood deeply.
+| **Software Development Philosophies**
+| Agile/Scrum
+| Test-Driven Development | 1 year | weekly engagement | 2022-2023 | Terumo 
+| **Engineering Philosophies**
+| Design for Six Sigma
+| Industrial Statistics
+| Requirements and Risk Management 
+| Voice of Customer | MDT Green Belt - explain what this is
+| **Soft Skills** 
+| Public speaking / oratorical skills | 15+ years | varies | 2006 - present | From Speech and Debate in high school, to various teaching and training arrangements through my working career, I have always prided myself on being a good communicator.  
 
-Engineering Skills, Requirements Management, 5
-Engineering Skills, Risk Management, 5
-Engineering Skills, Technology Assessment, 5
-Engineering Skills, Test Design, 5
-Engineering Skills, Hardware, 5
-
-Soft Skills, Technical Writing, 5
-Soft Skills, Technical Training, 5
-
-%% Level 2 - Software Skills
-Programming Languages, Javascript/Typescript, 4
-Programming Languages, PL Theory, 0.5
-Programming Languages, C++, 1.5
-Programming Languages, R, 2
-Programming Languages, bash, 2
-Programming Languages, Go, 0.5
-Programming Languages, Python, 2
-
-Web Abstractions, Django, 0.25
-Web Abstractions, Gatsby/React, 1
-Web Abstractions, jQuery, 2
-
-Test Frameworks, catch2, 0.5
-
-VCS, git, 6
-VCS, GitHub, 2
-VCS, GitLab, 0.5
-VCS, Azure DevOps, 0.5
-VCS, subversion, 0.5
-
-Cloud Providers, DigitalOcean, 0.25
-Cloud Providers, AWS, 0.25
-
-Operating Systems, Windows, 5
-Operating Systems, Mac, 2
-Operating Systems, Linux Fedora, 1
-
-Databases, ObjectStore, 5
-Databases, SQL, 1
-Databases, Postgres, 0.25
-Databases, SQLite, 0.25
-Databases, MongoDB, 0.25
-
-Other, Cognition Cockpit, 5
-Other, Design for Six Sigma, 4
-Other, MQTT, 1
-
-%% Level 2 - Engineering Skills
-Requirements Management, Requirements Matrices, 4
-
-Risk Management, Design FMEAs, 4
-Risk Management, Process FMEAs, 4
-Risk Management, Use-Case FMEAs, 4
-Risk Management, PRAs (Product Risk Assessments), 4
-
-Technology Assessment, Pugh Matrix, 4
-```
-
-### Definitions
-
-**Practical Experience**: Midpoint corresponds to 6 months of hands-on experience with skill
-
-**Theoretical Knowledge**: Midpoint corresponds to 1 formal course in topic, or 1 informal course (e.g. via Coursera, with certificate)
-
-**Caveat**: This is a rough assessment (+/- 25% on each axis for each skill)
 
 ## Work History
 
@@ -134,7 +80,7 @@ axisFormat %b %Y
 tickInterval 12month
 
 section DEPT
-    Senior Software Engineer : 01-2023, 10-2023
+    Sr Software Engineer : 01-2023, 10-2023
     Software Engineer III : 01-2022, 01-2023
 
 section Medtronic
@@ -151,19 +97,26 @@ section NeoLight
 
 ### DEPT (January 2022 - present) - Denver, CO
 
-- Senior Software Engineer (January 2023 - present)
+#### Roles
+
+- Sr Software Engineer (January 2023 - present)
 - Software Engineer III (January 2022 - January 2023)
 
-#### Client: Communications Provider (August 2023 - present)
+#### Client: National Renewable Energy Lab (NREL) + United States Department of Energy (DOE) (January 2024 - present)
+
+- Web application for Grid Deployment Office
+- **Tools used**: Typescript, React/next.js, AWS, Postgres, Docker, GitHub Actions
+
+#### Client: Major Terrestrial Communications Provider (August 2023 - December 2023)
 
 - Satellite communications integration
-- **Tools Used**: Golang, AWS, Postgres, Docker, GitLab, git
+- **Tools Used**: Golang, AWS, Postgres, Docker, GitLab
 
 #### Client: Medical Device Manufacturer (August 2022 - July 2023)
 
 - Embedded Linux (C++)
 - Mentorship of junior engineers
-- **Tools used**: C++, gdb, catch2, shell scripting, Linux Fedora, GitHub, git
+- **Tools used**: C++, gdb, catch2, shell scripting, Linux Fedora, GitHub
 
 #### Client: Restaurant chain (January 2022 - August 2022)
 
@@ -183,7 +136,7 @@ section NeoLight
 - Graduate Engineering Intern (August 2016 - May 2017) - Phoenix, AZ
   - Implemented industrial statistics software tools, primarily around Design for Six Sigma
   - Awarded internal trade patent for healthcare analytics application
-  - **Tools used**: SQL, Tableau, R, Cognition Cockpit, Javascript/jQuery, HTML/CSS
+  - **Tools used**: SQL, Tableau, R, Subverison, Cognition Cockpit, Javascript/jQuery, HTML/CSS
 
 ## Education  
 
