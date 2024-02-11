@@ -1,20 +1,16 @@
+---
+geometry: margin=0.5in
+---
+
 # Ashwin Sundar
 
 | Senior Software Engineer | |  
 | - | - |  
-| (480) - 216 - 0436 | [ashwin.sundar@asu.edu](ashwin.sundar@asu.edu) |
-
----
-
-*introduction*
-
----
+| (480) - 216 - 0436 | [ashiundar@gmail.com](ashiundar@gmail.com) |
 
 ## Technical Skills
 
 About: Technical skills are difficult to assess. This table is intended to communicate my technical proficiencies and amount of experience with each, in an objective and honest manner.
-
-sort by most to least xp in each category
 
 | Skill/Technology | Experience | Engagement per week | Recency | Comments |
 | - | - | - | - | - |
@@ -57,7 +53,7 @@ sort by most to least xp in each category
 | Objective-C | 6 months | daily usage | 2015 | coursework only
 | **Programming Philosophies**
 | Functional Programming
-| Object-Oriented Programming | Still my default way of programming, although recently I am growing to love blending functional techniques in where appropriate.
+| Object-Oriented Programming | | | | Still my default way of programming, although recently I am growing to love blending functional techniques in where appropriate.
 | SOLID/DRY Principles | | | | I think DRY is often taken too far, so I believe in knowing as much as about one's code as possible. External dependencies should be treated as SOUP (Software of Unknown Provenance), and should be understood deeply.
 | **Software Development Philosophies**
 | Agile/Scrum
@@ -68,7 +64,7 @@ sort by most to least xp in each category
 | Requirements and Risk Management 
 | Voice of Customer | MDT Green Belt - explain what this is
 | **Soft Skills** 
-| Public speaking / oratorical skills | 15+ years | varies | 2006 - present | From Speech and Debate in high school, to various teaching and training arrangements through my working career, I have always prided myself on being a good communicator.  
+| Public speaking / oratorical skills | 15+ years | varies | 2006 - present | From Speech and Debate in high school, to various teaching and training arrangements through my working career, I have always prided myself in being a good communicator.  
 
 
 ## Work History
