@@ -1,5 +1,5 @@
 ---
-geometry: margin=0.5in
+geometry: margin=0.25in
 ---
 
 # Ashwin Sundar
@@ -10,9 +10,8 @@ geometry: margin=0.5in
 
 ## About
 
-*Continuous learner who prides himself in his work. 8 years of engineering experience, and 6 years of software experience primarily developing full-stack web applications, along with excursions in embedded systems and data analytics.*
-
-*B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). DRM (Design for Six Sigma) Green Belt certified at Medtronic, 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
+* Currently employed as Senior Software Engineer with DEPT Agency, a technical consultancy. Also founder of SND Logic, LLC, a scientific software company.*
+* B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). DRM (Design for Six Sigma) Green Belt certified at Medtronic, 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
 
 ### DEPT (January 2022 - present) - Denver, CO
  
