@@ -10,7 +10,7 @@ geometry: margin=0.25in
 
 ## About
 
-* Currently employed as Senior Software Engineer with DEPT Agency, a technical consultancy. Also founder of SND Logic, LLC, a scientific software company.*
+* Senior Software Engineer with DEPT Agency, a technical consultancy.
 * B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). DRM (Design for Six Sigma) Green Belt certified at Medtronic, 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
 
 ### DEPT (January 2022 - present) - Denver, CO
