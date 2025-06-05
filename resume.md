@@ -8,65 +8,83 @@ geometry: margin=0.25in
 | - | - |  
 | (480) - 216 - 0436 | [ashiundar@gmail.com](ashiundar@gmail.com) |
 
-## About
+*B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). DRM (Design for Six Sigma) Green Belt certified at Medtronic, 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
 
-* Senior Software Engineer with DEPT Agency, a technical consultancy.
-* B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). DRM (Design for Six Sigma) Green Belt certified at Medtronic, 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
+---
+---
+## Work Experience
 
 ### DEPT (January 2022 - present) - Denver, CO
  
 *Technology consultancy based in Amsterdam, NL*
 
-#### Roles
+- **Senior Software Engineer** (January 2023 - present)
+- **Software Engineer III** (January 2022 - January 2023)
 
-- Senior Software Engineer (January 2023 - present)
-- Software Engineer III (January 2022 - January 2023)
-
-#### Client: U.S. Department of Energy (DOE) (January 2024 - present)
+#### Client: U.S. Department of Energy (DOE) (Jan 2024 - Feb 2025)
 
 - Web application for Grid Deployment Office
 - **Tools used**: Typescript, React/Next.js, AWS, Postgres, Docker, git, GitHub Actions
 
-#### Client: Major Terrestrial Communications Provider (August 2023 - December 2023)
+#### Client: Major Terrestrial Communications Provider (Aug 2023 - Dec 2023)
 
 - Satellite communications integration
 - **Tools Used**: Go, AWS, Postgres, Docker, git, GitLab
 
-#### Client: Medical Device Manufacturer (August 2022 - July 2023)
+#### Client: Medical Device Manufacturer (Aug 2021 - July 2023)
 
 - Medical centrifuge (FDA Class I device)
 - Embedded Linux (C++)
 - Mentorship of junior engineers
 - **Tools used**: C++, gdb, catch2, shell scripting, Linux Fedora, git
 
-#### Client: Restaurant chain (January 2022 - August 2022)
+#### Client: Restaurant chain (Jan 2022 - Aug 2022)
 
 - Full-stack web development for high-visibility business homepage
 - **Tools used**: Gatsby/ReactJS, GraphQL, Azure DevOps, git
 
-### SND Logic (November 2023 - present)
+---
+
+### SND Logic (Nov 2023 - present)
 
 *Small business with a mission to make science better.*
 
-- Co-founder, lead developer
-- **Tools used**: Django/Python, Docker, DigitalOcean
+- **Co-founder, lead developer**
+- **Tools used**: Django/Python, DigitalOcean
+- Released a product called MouseHouse (in beta at Harvard)
 
-### Medtronic (October 2017 - January 2022) - multiple locations
+---
+
+### Medtronic (Aug 2016 - Jan 2022)
 
 *Major medical device manufacturer*
 
-- Software Engineer II (October 2017 - January 2022) - Denver, CO
+- **Software Engineer II** (Oct 2017 - Jan 2022) - Denver, CO
   - Full-stack web solution for requirements and risk management
   - Created and delivered requirements and risk management training to users in Colorado, Massachusetts, Florida, and Shanghai
   - Awarded 2018 Medtronic Beacon Award
   - Completed DRM Green Belt project - estimated business savings of $1.6 million per year
   - **Tools used**: Cognition Cockpit, Javascript/jQuery, HTML/CSS, ObjectStore, Tableau, SQL, R
-- Software Requirements Engineer (May 2017 - October 2017) - Minneapolis, MN
+- **Software Requirements Engineer** (May 2017 - Oct 2017) - Minneapolis, MN
   - Wrote software requirements describing heart monitoring system
-- Graduate Engineering Intern (August 2016 - May 2017) - Phoenix, AZ
+- **Graduate Engineering Intern** (Aug 2016 - May 2017) - Phoenix, AZ
   - Implemented industrial statistics software tools, primarily around Design for Six Sigma
   - Awarded internal trade patent for healthcare analytics application
   - **Tools used**: SQL, Tableau, R, Subversion, Cognition Cockpit, Javascript/jQuery, HTML/CSS
+
+---
+
+### ASU Biodesign Institute (Feb 2016 - Dec 2016)
+
+*Arizona State University*
+
+- **Graduate Research Fellow** (Feb 2016 - Dec 2016) - Tempe, AZ
+    - La Belle Lab @ ASU. Stipend awarded by Nobel Laureate Dr. Leland Hartwell
+    - Developed physiological sensing devices for human studies
+    - Circuit board design, electrical testing, physical interface design, algorithm design
+
+---
+---
 
 ## Education  
 
