@@ -21,6 +21,16 @@ geometry: margin=0.25in
 - **Senior Software Engineer** (January 2023 - present)
 - **Software Engineer III** (January 2022 - January 2023)
 
+#### Client: Arizona State University (April 2025 - present)
+
+- Migration of Mulesoft servies to AWS
+- **Tools used**: Node.js, Terraform, AWS (lambdas, step functions, cloudwatch)
+
+#### Client: TCGPlayer/eBay (Feb 2025 - April 2025)
+
+- Architecture Sprint + Prototype for backend services which link client applications to database servers containing Magic the Gathering card data
+- **Tools used**: Go, Postgres, ngrok
+
 #### Client: U.S. Department of Energy (DOE) (Jan 2024 - Feb 2025)
 
 - Web application for Grid Deployment Office
@@ -29,9 +39,9 @@ geometry: margin=0.25in
 #### Client: Major Terrestrial Communications Provider (Aug 2023 - Dec 2023)
 
 - Satellite communications integration
-- **Tools Used**: Go, AWS, Postgres, Docker, git, GitLab
+- **Tools used**: Go, AWS, Postgres, Docker, git, GitLab
 
-#### Client: Medical Device Manufacturer (Aug 2021 - July 2023)
+#### Client: Terumo BCT (Aug 2022 - July 2023)
 
 - Medical centrifuge (FDA Class I device)
 - Embedded Linux (C++)
@@ -50,8 +60,10 @@ geometry: margin=0.25in
 *Small business with a mission to make science better.*
 
 - **Co-founder, lead developer**
-- **Tools used**: Django/Python, DigitalOcean
-- Released a product called MouseHouse (in beta at Harvard)
+- Released a product called MouseHouse (mousehouse.bio) - in beta at Harvard Brain Science Initiative
+- Applied for NIH SBIR Phase I grant worth $306k (rejected)
+- Applied for Amazon Small Business grant (rejected)
+- **Tools used**: Django/Python, DigitalOcean (app platform, droplets, databases, spaces)
 
 ---
 
