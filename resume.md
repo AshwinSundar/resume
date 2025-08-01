@@ -61,6 +61,7 @@
 
 - **Co-founder, lead developer**
 - Released a product called MouseHouse (mousehouse.bio) - in beta at Harvard Brain Science Initiative
+- Accepted to 12-week startup pre-accelerator Founder University (https://www.founder.university/), run by Launch.co's Jason Calacanis
 - Applied for NIH SBIR Phase I grant worth $306k (rejected)
 - Applied for Amazon Small Business grant (rejected)
 - **Tools used**: Django/Python, DigitalOcean (app platform, droplets, databases, spaces)
