@@ -17,7 +17,11 @@
 - **Senior Software Engineer** (January 2023 - present)
 - **Software Engineer III** (January 2022 - January 2023)
 
-#### Client: Arizona State University (April 2025 - present)
+#### Client: Google (August 2025 - present)
+
+- C++ development in YouTube codebase
+
+#### Client: Arizona State University (April 2025 - July 2025)
 
 - Migration of Mulesoft servies to AWS
 - **Tools used**: Node.js, Terraform, AWS (lambdas, step functions, cloudwatch)
