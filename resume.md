@@ -1,7 +1,3 @@
----
-geometry: margin=0.25in
----
-
 # Ashwin Sundar
 
 | Senior Software Engineer | www.ashwinsundar.com |  
