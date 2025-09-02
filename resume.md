@@ -4,7 +4,7 @@
 | - | - |  
 | (480) - 216 - 0436 | [ashiundar@gmail.com](ashiundar@gmail.com) |
 
-*Senior Software Engineer, currently working for Google on contract. B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. 2016 recipient of a Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). Co-founder of software company (SND Logic, LLC), developing sofware tools for biology researchers. Design for Six Sigma certified at Medtronic (green belt), recipient of 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
+*Senior Software Engineer, currently working for Google on contract. B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. 2016 recipient of a Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). Co-founder of software company (SND Logic, LLC), developing software tools for biology researchers. Design for Six Sigma certified at Medtronic (green belt), recipient of 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
 
 ---
 
