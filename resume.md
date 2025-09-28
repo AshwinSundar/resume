@@ -66,7 +66,9 @@
 *Small business with a mission to make science better.*
 
 - **Co-founder, lead developer**
-- Creator of [MouseHouse](https://mousehouse.bio) - in beta at Harvard Brain Science Initiative
+- Creator of [MouseHouse](https://mousehouse.bio) 
+    - In closed beta at Harvard Brain Science Initiative
+    - 77 users across 38 research laboratories
 - ✅ Accepted to 12-week startup pre-accelerator Founder University (https://www.founder.university/), run by Launch.co's Jason Calacanis
 - ❓ Applied for NIH SBIR Phase I grant worth $314k (rejected once, currently re-applying)
 - ❌ Applied for Digital Science Catalyst Grant (rejected)
