@@ -61,9 +61,9 @@
 
 ---
 
-### SND Logic (Nov 2023 - present)
+### SND Logic, LLC (Nov 2023 - present)
 
-*Small business with a mission to make science better.*
+*Developing advanced software applications for biomedical researchers.*
 
 - **Co-founder, lead developer**
 - Creator of [MouseHouse](https://mousehouse.bio) 
