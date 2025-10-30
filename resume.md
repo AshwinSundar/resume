@@ -25,6 +25,7 @@
 #### Client: Google (August 2025 - present)
 
 - C++ development in YouTube codebase
+- **Tools used**: C++, Mercurial
 
 #### Client: Arizona State University (April 2025 - July 2025)
 
