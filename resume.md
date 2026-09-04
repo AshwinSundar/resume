@@ -1,23 +1,34 @@
 # Ashwin Sundar
 
-| Senior Software Engineer | www.ashwinsundar.com |  
-| - | - |  
-| (480) - 216 - 0436 | [ashiundar@gmail.com](ashiundar@gmail.com) |
+| Founder, Principal |
+| sundarsoftware.com | ashwinsundar.com |
+| [ashwin@sundarsoftware.com](ashwin@sundarsoftware.com) |
 
-*Senior Software Engineer, currently working for Google on contract. B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. 2016 recipient of a Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). Co-founder of software company (SND Logic, LLC), developing software tools for biology researchers. Design for Six Sigma certified at Medtronic (green belt), recipient of 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
+*I make useful tools for biomedical researchers.*
+
+*B.S. in neuroscience from University of California, Los Angeles; M.S. in biomedical engineering from Arizona State University. 2016 recipient of a Graduate Research Fellowship awarded by Dr. Leland Hartwell (2001 Nobel Laureate). Founder of Sundar Software LLC, developing software tools for biomedical researchers. Design for Six Sigma certified at Medtronic (green belt), recipient of 2018 Medtronic Beacon Award for outstanding engineering contributions, and recipient of internal trade patent at Medtronic.*
 
 ---
 
 ## Job History
-1) Senior Software Engineer - DEPT (Jan 2023 - present)
-2) Software Engineer III - DEPT (Jan 2022 - Jan 2023)
-3) Software Engineer II - Medtronic (Oct 2017 - Jan 2022)
-4) Graduate Engineering Intern - Medtronic (Aug 2016 - Oct 2017)
-5) Graduate Research Fellow - Arizona State University (Feb 2016 - Dec 2016)
+1) Principal - Sundar Software LLC (March 2026 - present)
+2) Senior Software Engineer - DEPT (Jan 2023 - Sept 2026)
+3) Software Engineer III - DEPT (Jan 2022 - Jan 2023)
+4) Software Engineer II - Medtronic (Oct 2017 - Jan 2022)
+5) Graduate Engineering Intern - Medtronic (Aug 2016 - Oct 2017)
+6) Graduate Research Fellow - Arizona State University (Feb 2016 - Dec 2016)
 ---
 ## Work Experience
 
-### DEPT (January 2022 - present) - Denver, CO
+### Sundar Software LLC (March 2026 - present) - Westminster, CO
+
+*Python, htmx and Django expert. Helping biomedical researchers realize their software ambitions.*
+
+
+- Products: MouseHouse (www.mousehouse.bio), Lab Assistant (in development)
+- **Tools Used**: Python, htmx, Django, TailwindCSS, Alpine.js, Digital Ocean
+
+### DEPT (January 2022 - Sept 2026) - Denver, CO
  
 *Technology consultancy based in Amsterdam, NL*
 

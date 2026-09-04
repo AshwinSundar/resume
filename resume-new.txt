@@ -1,11 +1,16 @@
 RESUME OF ASHWIN SUNDAR
+Principal, Founder @ Sundar Software LLC
 
 Phone: (480) - 216 - 0436
-email: ashiundar@gmail.com
+email: ashwin@sundarsoftware.com
 
 ---ABOUT---
 
-Several years of experience building enterprise-grade applications for large companies such as Medtronic, Terumo BCT, and Freewave Technologies, as well as the US government. Always interested in new challenges and ways to demonstrate engineering excellence. B.S. in neuroscience from UCLA, M.S. in biomedical engineering from Arizona State University.
+Currently, I am the Principal and Founder of Sundar Software LLC. I make software tools in collaboration with biomedical researchers to help advance their research. My first product, MouseHouse, is in use at Harvard and expanding soon to more R1 universities.
+
+My school and career path to get here has been pretty bizarre. I tried out pre-med at UCLA, but wasn't the right fit. I worked in neuroscience research labs in undergrad and grad school, and along the way found out how much fun programming and computer science is. I thought I'd take a few classes to make me a better biomedical engineer. Turns out that programming was so much fun that I spent 10 years writing code! Now that I have the skillset I wanted, it's time to turn back to research and focus on making useful and cool tools for the field I came from.
+
+Beyond that, I have 10+ years of experience building enterprise-grade software for large companies such as Medtronic, Terumo BCT, and Freewave Technologies, as well as the US government.
 
 ---EDUCATIONAL QUALIFICATIONS---
 
@@ -15,13 +20,14 @@ Several years of experience building enterprise-grade applications for large com
 
 ---EMPLOYMENT---
 
-1. Feb 2023 - current   Senior Software Engineer, DEPT Agency, Denver, CO
+1. Mar 2026 - current   Principal, Founder @ Sundar Software LLC, Westminster, CO
+2. Feb 2023 - current   Senior Software Engineer, DEPT Agency, Denver, CO
    Jan 2022 - Feb 2023  Software Engineer III, DEPT Agency, Denver, CO
-2. Oct 2017 - Jan 2022  Software Engineer II, Medtronic, Louisville, CO
+3. Oct 2017 - Jan 2022  Software Engineer II, Medtronic, Louisville, CO
    May 2017 - Oct 2017  Software Requirements Engineer, Medtronic, Mounds View, MN
    Aug 2016 - May 2017  Graduate Engineering Intern, Medtronic, Tempe, AZ
-3. Feb 2016 - Dec 2016  Graduate Research Assistant, Arizona State University, Tempe, AZ
-4. Jan 2015 - Apr 2015  Engineering Intern, NeoLight LLC, Scottsdale, AZ
+4. Feb 2016 - Dec 2016  Graduate Research Assistant, Arizona State University, Tempe, AZ
+5. Jan 2015 - Apr 2015  Engineering Intern, NeoLight LLC, Scottsdale, AZ
 
 ---PROFESSIONAL CERTIFICATIONS---
 
@@ -29,14 +35,15 @@ Several years of experience building enterprise-grade applications for large com
 
 ---WORK EXPERIENCE---
 
-Currently, I work as a software engineering consultant at DEPT, a technology consultancy. I have worked on four projects thus far: 
+Previously, I worked as a software engineering consultant at DEPT, a technology consultancy. I worked on five projects:
 
-- (current) Web application for Grid Deployment Office with US Department of Energy (Next.js/React, Typescript, AWS, Docker)
+- YouTube Marketing Technology Division (C++)
+- Web application for Grid Deployment Office with US Department of Energy (Next.js/React, Typescript, AWS, Docker)
 - Satellite communications integration with terrestrial API (Go, AWS, Docker)
 - Embedded software for an FDA Class I medical centrifuge (C++, Linux Fedora, catch2 test framework)
 - A static website developed for a major restaurant chain to modernize their online appearance (Gatsby/React, Typescript, GraphQL)
 
-I write technical articles for my company (https://engineering.deptagency.com/author/ashwin). I spoke for an hour on a company podcast here - https://www.twitch.tv/videos/1704919618, and again here - https://www.twitch.tv/videos/1725246460. I write a variety of things for myself (www.ashwinsundar.com), mainly to practice writing, and frequently to inform on technical subjects. I also host book clubs that help engage and elevate the engineering community at DEPT.
+I wrote technical articles for my company (https://engineering.deptagency.com/author/ashwin). I spoke for an hour on a company podcast here - https://www.twitch.tv/videos/1704919618, and again here - https://www.twitch.tv/videos/1725246460. I write a variety of things for myself (www.ashwinsundar.com), mainly to practice writing, and frequently to inform on technical subjects. I also hosted book clubs that help engage and elevate the engineering community at DEPT.
 
 As Software Engineer II at Medtronic, I designed, developed, tested, deployed, and supported a requirements and risk management solution built on top of Cognition Cockpit. I developed software customizations in HTML, CSS, Javascript, jQuery, and ASE, a web scripting language. I also built a data analytics application using Tableau to facilitate business insights into the engineering organization. This project was estimated to save the organization $1.6 million per year by automating data discovery and insights into the health of the organization.
 
