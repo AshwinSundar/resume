@@ -21,7 +21,7 @@ Beyond that, I have 10+ years of experience building enterprise-grade software f
 ---EMPLOYMENT---
 
 1. Mar 2026 - current   Principal, Founder @ Sundar Software LLC, Westminster, CO
-2. Feb 2023 - current   Senior Software Engineer, DEPT Agency, Denver, CO
+2. Feb 2023 - Sep 2026  Senior Software Engineer, DEPT Agency, Denver, CO
    Jan 2022 - Feb 2023  Software Engineer III, DEPT Agency, Denver, CO
 3. Oct 2017 - Jan 2022  Software Engineer II, Medtronic, Louisville, CO
    May 2017 - Oct 2017  Software Requirements Engineer, Medtronic, Mounds View, MN
@@ -49,5 +49,5 @@ As Software Engineer II at Medtronic, I designed, developed, tested, deployed, a
 
 As Graduate Engineering Intern at Medtronic, I developed requirements templates in Cognition Cockpit. I researched FDA engagement strategies. I made an interactive learning tool for Response Surface Methodology (an advanced industrial statistics technique) using R. I developed and received a Medtronic internal patent for a competitive analysis tool, also written in R. 
 
-As Graduate Research Assistant at ASU, I led team efforts to develop embedded software and hardware for a wearable physiological testing device. I developed C++ embedded software to run on a Particle Photon microcontroller. I designed circuits and sensor to collect human physiological data. I read prior literature and consulted first principles to inform design and development. For my applied project at the culmination of the M.S. degree, I defined and implemented an algorithm employing empirical mode decomposition, to analyze non-linear/non-stationary time series data in the form of electrocardiograph data collected from our device. My stipend was funded via Project Honeybee and Dr. Leland Hartwell (2001 Nobel Laureate).
+As Graduate Research Assistant at ASU, I led team efforts to develop embedded software and hardware for a wearable physiological testing device. I developed C++ embedded software to run on a Particle Photon microcontroller. I designed circuits and sensors to collect human physiological data. I read prior literature and consulted first principles to inform design and development. For my applied project at the culmination of the M.S. degree, I defined and implemented an algorithm employing empirical mode decomposition, to analyze non-linear/non-stationary time series data in the form of electrocardiograph data collected from our device. My stipend was funded via Project Honeybee and Dr. Leland Hartwell (2001 Nobel Laureate).
 
